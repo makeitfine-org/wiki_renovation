@@ -13,7 +13,8 @@ Install if necessary tools:
 3. Git
 4. Kubernetes
 5. Minikube
-6. http-server (optional)
+6. Helm
+7. http-server (optional)
 
 ### Staring work
 
