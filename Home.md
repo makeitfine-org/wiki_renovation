@@ -4,7 +4,7 @@ Renovation
 
 Education project for using software development technologies, substantially Java and Kotlin based.
 
-## Project configuration and usage 
+## Project configuration and running 
 
 ### Prerequisites
 Install if necessary tools:
@@ -19,6 +19,8 @@ Install if necessary tools:
 
 [1. Git VCS](https://github.com/makeitfine-org/renovation/wiki/git)  
 
-[2. Usage](https://github.com/makeitfine-org/renovation/wiki/usage)
+[2. Build](https://github.com/makeitfine-org/renovation/wiki/build)
 
-[3. Frontend-service](https://github.com/makeitfine-org/renovation/wiki/frontend-service)
+[3. Deploy](https://github.com/makeitfine-org/renovation/wiki/deploy)
+
+[4. Frontend-service](https://github.com/makeitfine-org/renovation/wiki/frontend-service)
