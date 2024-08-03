@@ -1,12 +1,15 @@
 ### Kubernetes, Deployment
 
 #### Kubernetes, minikube  
-   1. Install kubernetes (k8s) and minikube  
-   * To run in debug mode:  
-   `$> docker compose -f docker-compose.yml -f docker-compose-debug.yml up`   
-   2. run (if needed in `debug` mode) RenovationApplication.kt  
-   3. open application in browser url: http://localhost:8280    
+Install kubernetes (k8s) and minikube  
+   1. Create minikube 2 nodes cluster and upload :  
+      `$> sh aux/minikube/mn-cluster-creation.sh`  
+   2. 
+   * 
 
 > [!Tip]
-> use username/password to login: `all-test/test` 
-> also credentials can be seen it in file: `application-secured-test.yml` 
+> 
+> It might be useful to upgrade kubectl and minikube to latest versions  
+> https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/#install-kubectl-binary-with-curl-on-linux  
+> downgrade docker to 24 version:  
+> https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script
