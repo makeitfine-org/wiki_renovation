@@ -28,8 +28,6 @@
     `$> git rm --cached wiki`  
     `$> git commit -m 'rm submodule: wiki`
 
-* *
-
 > [!Tip]
 > More about submodules:    
 > https://www.youtube.com/watch?v=wTGIDDg0tK8&ab_channel=AntonPutra  
