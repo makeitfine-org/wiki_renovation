@@ -15,6 +15,8 @@ Install if necessary tools:
 5. Minikube
 6. Helm
 7. http-server (optional)
+8. nodejs 16.14.0
+9. npm 8.3.1
 
 ### Staring work
 
