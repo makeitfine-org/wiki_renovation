@@ -14,12 +14,12 @@
 
 * * Work with submodule:  
     pull changes:  
-    `$> git submodule update --remote`
+    `$> git submodule update --remote`  
     pull and merge/rebase:  
-    `$> git submodule update --remote --merge`
+    `$> git submodule update --remote --merge`  
     `$> git submodule update --remote --rebase`
 
-* * Remove submodule `wiki`:
+* * Remove submodule `wiki`:  
     `$> git submodule deinit -f wiki`  
     `$> rm -rf wiki`  
     `$> rm -rf .git/modules/wiki`  
