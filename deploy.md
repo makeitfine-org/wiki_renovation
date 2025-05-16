@@ -3,7 +3,7 @@
 #### Kubernetes, minikube  
 Install kubernetes (k8s) and minikube  
    1. Create minikube 2 nodes cluster and upload :  
-      `$> sh aux/minikube/mn-cluster-creation.sh`  
+      `$> sh auxillary/minikube/mn-cluster-creation.sh`  
    2. 
 
 > [!Tip]
